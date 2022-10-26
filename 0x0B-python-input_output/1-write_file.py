@@ -2,7 +2,6 @@
 ''' function that returns the number of lines of a text file
 '''
 
-
 def number_of_lines(filename=""):
     ''' function: number_of_lines
     '''
